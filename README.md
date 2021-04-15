@@ -1,6 +1,11 @@
 # dotnet - Testing-Frameworks
 
-This is very basic examples of each of the main .Net testing frameworks. It's pretty much just open and test. 
+This is very basic examples of each of the main .Net testing frameworks. It's pretty much just:
+
+1) Open Solution
+2) Select Startup project
+3) Right click on selected project 
+4) Run Tests
 
 ## The following is just a TL;DR of what all the articles say about the frameworks
 
